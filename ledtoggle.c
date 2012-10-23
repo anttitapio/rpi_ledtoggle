@@ -1,8 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-
-
 int main (void)
 {
     const char* logPath = "/srv/http/cgi-bin/ledToggleCount.log";
